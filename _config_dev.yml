@@ -1,0 +1,6 @@
+# _config_dev.yml
+
+# Override settings for local development
+baseurl: ""
+# _config_dev.yml
+url: "http://127.0.0.1:4000"
